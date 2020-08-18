@@ -1,3 +1,3 @@
-# Flutter app - Woman Shop
-Приложение на Flutter - Женский магазин
+# Test Flutter app - Woman Shop
+Тестовое приложение на Flutter - Женский магазин
 Можно скачать APK файл для Android
